@@ -27,13 +27,13 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
  <tr style="height:159.65pt">
   <td width="153" style="width:115.05pt;border-top:none;border-left:none;
   border-bottom:solid white 1.0pt;border-right:solid white 4.5pt;background:
-  #D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:159.65pt">
+  #D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:159.65pt">
   <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:11.0pt;color:black">Ministry Teams<br>
   &nbsp;- Applications &amp; Data</span></b></p>
   </td>
   <td width="243" valign="top" style="width:182.1pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
-  background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:159.65pt">
+  background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:159.65pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Apply Financial
@@ -47,9 +47,9 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   </span></span><span style="font-size:11.0pt;color:black">2nd stage procurement
   or process to justify selection of cloud service provider</span></p>
   </td>
-  <td width="246" valign="top" style="width:184.3pt;border-top:none;border-left:
+  <td width="246" valign="top" style="padding-bottom: 8px;width:184.3pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
-  background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:159.65pt">
+  background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:159.65pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">App-specific
@@ -68,7 +68,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   Management as per CPPM Ch 12</span></p>
   </td>
   <td width="274" valign="top" style="width:205.55pt;border:none;border-bottom:
-  solid white 1.0pt;background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:159.65pt">
+  solid white 1.0pt;background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:159.65pt">
   <p class="MsoNormal" style="margin:8px 0px"><b><span style="font-size:11.0pt;
   color:black">Manage Application Lifecycle</span></b></p>
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
@@ -94,13 +94,13 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
  <tr style="height:133.55pt">
   <td width="153" style="width:115.05pt;border-top:none;border-left:none;
   border-bottom:solid white 4.5pt;border-right:solid white 4.5pt;background:
-  #D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:133.55pt">
+  #D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:133.55pt">
   <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:11.0pt;color:black">Communities of Practice - DevOps
   Commons, others</span></b></p>
   </td>
   <td width="243" valign="top" style="width:182.1pt;border-top:none;border-left:
   none;border-bottom:solid white 4.5pt;border-right:solid white 1.0pt;
-  background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:133.55pt">
+  background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:133.55pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Regular cadence of
@@ -120,7 +120,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   </td>
   <td width="246" valign="top" style="width:184.3pt;border-top:none;border-left:
   none;border-bottom:solid white 4.5pt;border-right:solid white 1.0pt;
-  background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:133.55pt">
+  background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:133.55pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Regular cadence of
@@ -140,7 +140,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   </td>
   <td width="274" valign="top" style="width:205.55pt;border-top:none;border-left:
   none;border-bottom:solid white 4.5pt;border-right:solid white 1.0pt;
-  background:#D9E2F3;padding:0cm 5.4pt 0cm 5.4pt;height:133.55pt">
+  background:#D9E2F3;padding:0cm 5.4pt 8px 5.4pt;height:133.55pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Regular cadence of
@@ -162,7 +162,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
  <tr style="height:120.0pt">
   <td width="153" style="width:115.05pt;border-top:none;border-left:none;
   border-bottom:solid white 4.5pt;border-right:solid white 4.5pt;background:
-  #E2EFD9;padding:0cm 5.4pt 0cm 5.4pt;height:120.0pt">
+  #E2EFD9;padding:0cm 5.4pt 8px 5.4pt;height:120.0pt">
   <p class="MsoNormal" align="center" style="text-align:center;text-indent:-5.05pt"><b><span style="font-size:11.0pt;color:black">Accelerated Public<br>
   Cloud&nbsp;Services Team<br>
   (and service delivery<br>
@@ -172,7 +172,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   </td>
   <td width="243" valign="top" style="width:182.1pt;border-top:none;border-left:
   none;border-bottom:solid white 4.5pt;border-right:solid white 1.0pt;
-  background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt;height:120.0pt">
+  background:#E2EFD9;padding:0cm 5.4pt 8px 5.4pt;height:120.0pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Parse CSP bills to
@@ -199,7 +199,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   </td>
   <td width="246" valign="top" style="width:184.3pt;border-top:none;border-left:
   none;border-bottom:solid white 4.5pt;border-right:solid white 1.0pt;
-  background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt;height:120.0pt">
+  background:#E2EFD9;padding:0cm 5.4pt 8px 5.4pt;height:120.0pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Corporate PIA for
@@ -231,7 +231,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   Privacy Schedules for inclusion in contracts</span></p>
   </td>
   <td width="274" valign="top" style="width:205.55pt;border:none;border-bottom:
-  solid white 4.5pt;background:#E2EFD9;padding:0cm 5.4pt 0cm 5.4pt;height:120.0pt">
+  solid white 4.5pt;background:#E2EFD9;padding:0cm 5.4pt 8px 5.4pt;height:120.0pt">
   <p class="MsoNormal" style="margin:8px 0px"><b><span style="font-size:11.0pt;
   color:black">Ordering &amp; Provisioning Infrastructure</span></b></p>
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
@@ -260,12 +260,12 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
  </tr>
  <tr style="height:127.45pt">
   <td width="153" style="width:115.05pt;border:none;border-right:solid white 4.5pt;
-  background:#FFF6DB;padding:0cm 5.4pt 0cm 5.4pt;height:127.45pt">
+  background:#FFF6DB;padding:0cm 5.4pt 8px 5.4pt;height:127.45pt">
   <p class="MsoNormal" align="center" style="text-align:center"><b><span style="font-size:11.0pt;color:black">Cloud Service Provider<br>
   -&nbsp;Data Centre Security and Reliability</span></b></p>
   </td>
   <td width="243" valign="top" style="width:182.1pt;border:none;border-right:solid white 1.0pt;
-  background:#FFF6DB;padding:0cm 5.4pt 0cm 5.4pt;height:127.45pt">
+  background:#FFF6DB;padding:0cm 5.4pt 8px 5.4pt;height:127.45pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Provide tools for
@@ -277,7 +277,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   (reserved instances, saving plans ...) -&gt; bill for consumption</span></p>
   </td>
   <td width="246" valign="top" style="width:184.3pt;border:none;border-right:solid white 1.0pt;
-  background:#FFF6DB;padding:0cm 5.4pt 0cm 5.4pt;height:127.45pt">
+  background:#FFF6DB;padding:0cm 5.4pt 8px 5.4pt;height:127.45pt">
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
   margin-bottom:0cm;margin-left:14.2pt;margin-bottom:.0001pt;text-indent:-14.2pt"><span style="font-size:11.0pt;font-family:Symbol">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;
   </span></span><span style="font-size:11.0pt;color:black">Security (including patching)<br>
@@ -291,7 +291,7 @@ Now that you’re up and running in the cloud, remember our Shared Responsibilit
   ISO 9001, 27001, 27017, 27018 ...</span></p>
   </td>
   <td width="274" valign="top" style="width:205.55pt;border:none;background:#FFF6DB;
-  padding:0cm 5.4pt 0cm 5.4pt;height:127.45pt">
+  padding:0cm 5.4pt 8px 5.4pt;height:127.45pt">
   <p class="MsoNormal" style="margin:8px 0px"><b><span style="font-size:11.0pt;
   color:black">Data Centre Operations</span></b></p>
   <p class="MsoListParagraph" style="margin-top:6.0pt;margin-right:0cm;
